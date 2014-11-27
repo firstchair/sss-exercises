@@ -13,6 +13,6 @@
 //  = Task 1 =
 //  ==========
 //  Running hello world in the terminal
-console.log('Ola, this code is running in node.js');
+console.log('Hallo world');
 
 

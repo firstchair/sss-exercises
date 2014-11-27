@@ -1,9 +1,9 @@
 var calculator = {
-  sum: function(){
-    // Implement sum function
+  sum: function (a, b){
+  return a+b;
   },
-  multiply: function(){
-    // Implement multiply function
+  multiply: function(a, b){
+  return a*b;
   }
 };
 

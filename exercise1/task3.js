@@ -22,6 +22,12 @@ try{
 
   console.log(myStringModule.titleize('give me titlecase'));
   // kick of test
+
+	function capitaliseFirstLetter(string)
+{
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+	
 } catch(e){
   console.log('Create your module at ./lib/string-helper');
 }
